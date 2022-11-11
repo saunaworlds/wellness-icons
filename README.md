@@ -1,13 +1,4 @@
 <p align="center">
-  <a href="https://wellness-icons.saunaworlds.com/#gh-light-mode-only" target="_blank">
-    <img src="./.github/logo-light.svg" alt="wellness-icons" width="300">
-  </a>
-  <a href="https://wellness-icons.saunaworlds.com/#gh-dark-mode-only" target="_blank">
-    <img src="./.github/logo-dark.svg" alt="wellness-icons" width="300">
-  </a>
-</p>
-
-<p align="center">
   Beautiful hand-crafted Sauna & Wellness SVG icons, by Saunaworlds. <br>Available as basic SVG icons and via first-party <a href="#react">React</a> and <a href="#vue">Vue</a> libraries.
 <p>
 
