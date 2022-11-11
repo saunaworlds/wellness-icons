@@ -1,19 +1,17 @@
 {
-  "name": "@heroicons/vue",
+  "name": "@wellness-icons/vue",
   "license": "MIT",
   "version": "2.0.13",
   "description": "",
   "keywords": [],
-  "homepage": "https://github.com/tailwindlabs/heroicons#readme",
+  "homepage": "https://github.com/saunaworlds/wellness-icons#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tailwindlabs/heroicons.git"
+    "url": "https://github.com/saunaworlds/wellness-icons.git"
   },
   "files": [
-    "20",
     "24",
-    "outline",
-    "solid"
+    "outline"
   ],
   "publishConfig": {
     "access": "public"

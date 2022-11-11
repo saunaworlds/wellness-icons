@@ -7,7 +7,7 @@ let proxy = new Proxy(
       }
 
       throw new Error(
-        `You\'re trying to import \`@heroicons/react/outline/${property}\` from Heroicons v1 but have installed Heroicons v2. Install \`@heroicons/react@v1\` to resolve this error.`
+        `You\'re trying to import \`@wellness-icons/react/outline/${property}\` from wellnes-icons v1 but have installed WellnessIcons v2. Install \`@wellness-icons/react@v1\` to resolve this error.`
       )
     },
   }
