@@ -18,7 +18,7 @@
 
 <p align="center">
     <a href="https://github.com/saunaworlds/wellness-icons/releases"><img src="https://img.shields.io/npm/v/wellness-icons" alt="Latest Release"></a>
-    <a href="https://github.com/saunaworlds/wellness-icons/blob/master/LICENSE"><img src="https://img.shields.io/npm/l/wellness-icons.svg" alt="License"></a>
+    <a href="https://github.com/saunaworlds/wellness-icons/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/wellness-icons.svg" alt="License"></a>
 </p>
 
 
