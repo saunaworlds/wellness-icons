@@ -98,6 +98,6 @@ Icons use an upper camel case naming convention and are always suffixed with the
 
 Icons designed by the amazing [Roberta Lanzetti](https://www.robertalanzetti.it/).
 
-Codebase is forked from [saunaworlds/wellness-icons](https://github.com/saunaworlds/wellness-icons).
+Codebase is forked from [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons).
 
 This library is MIT licensed.
