@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;">
+    <g id="fireplace">
+        <g transform="matrix(0.345413,0,0,0.345413,8.87362,22.0281)">
+            <path d="M0,-20.327C0.41,-20.173 2.39,-19.371 3.522,-16.885C4.726,-14.243 4.062,-11.701 3.94,-11.263C4.162,-11.331 5.184,-11.677 5.792,-12.879C6.588,-14.454 5.97,-16.103 5.911,-16.252C6.714,-14.812 8.051,-11.916 7.941,-8.171C7.896,-6.644 7.836,-4.593 6.568,-2.76C4.658,0 1.651,-0.075 1.486,-0.083C-1.433,-0.214 -4.187,-2.851 -4.538,-5.851C-4.846,-8.476 -3.258,-10.889 -2.688,-11.755C-1.512,-13.54 -0.604,-13.702 0,-15.268C0.687,-17.051 0.377,-18.97 0,-20.327Z" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.9px;"/>
+        </g>
+        <g transform="matrix(0.345413,0,0,0.345413,13.534,21.1168)">
+            <path d="M0,-20.844C-2.484,-21.934 -6.481,-23.294 -11.512,-23.346C-16.847,-23.401 -21.07,-21.96 -23.613,-20.844L-23.613,2.557L0,2.557L0,-20.844Z" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.9px;"/>
+        </g>
+        <g transform="matrix(-0.345413,0,0,0.345413,230.533,-22.1994)">
+            <rect x="620.239" y="95.774" width="39.599" height="32.187" style="fill:none;stroke:black;stroke-width:2.9px;"/>
+        </g>
+        <g transform="matrix(-0.345413,0,0,0.345413,6.67873,10.8826)">
+            <path d="M-16.08,-18.974L-0,-18.974L2.028,0L-18.108,0L-16.08,-18.974Z" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.9px;"/>
+        </g>
+        <g transform="matrix(0.345413,0,0,0.345413,21.3834,4.45161)">
+            <path d="M0,3.323C-0.912,8.006 -5.437,11.108 -10.158,10.24C-14.909,9.367 -18.045,4.804 -17.174,0.063C-16.306,-4.657 -11.806,-7.785 -7.086,-6.968C-8.58,-6.083 -9.69,-4.579 -10.03,-2.731C-10.656,0.673 -8.409,3.932 -5.006,4.558C-3.167,4.896 -1.366,4.394 0,3.323Z" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.9px;"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" clip-rule="evenodd" viewBox="0 0 24 24" stroke-width="1.0" stroke="currentColor" aria-hidden="true">
+  <path fill="none" d="M13.049 18.297a3.703 3.703 0 11-5.847-3.023V4.147a2.144 2.144 0 114.288 0v11.127a3.705 3.705 0 011.559 3.023z"/>
+  <circle cx="-5.725" r="5.725" fill="none" stroke-width="3.17" transform="matrix(0 -.31552 -.31552 0 9.345 16.502)"/>
+  <path fill="none" d="M9.345 16.503V8.416M14.293 2.414h4.065M14.293 5.009h2.315M14.293 7.603h4.065M14.293 10.197h2.315M14.293 12.792h4.065"/>
+</svg>

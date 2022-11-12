@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;">
+    <g id="car">
+        <g transform="matrix(0,-0.287354,-0.287354,0,6.30676,13.4252)">
+            <ellipse cx="-6.993" cy="0" rx="6.993" ry="6.994" style="fill:none;stroke:black;stroke-width:3.48px;"/>
+        </g>
+        <g transform="matrix(0,-0.287354,-0.287354,0,17.3107,13.4252)">
+            <ellipse cx="-6.993" cy="0" rx="6.993" ry="6.994" style="fill:none;stroke:black;stroke-width:3.48px;"/>
+        </g>
+        <g transform="matrix(0.287354,0,0,0.287354,4.31698,5.96924)">
+            <path d="M0,32.05L-4.38,32.06C-6.54,32.06 -8.23,30.22 -8.05,28.07C-7.601,22.67 -5.49,13.05 3.41,6.8C13.12,-0.01 25.13,1.27 33.189,5.75C38.96,8.95 42.22,13.53 43.78,16.12C44.609,16.07 53.859,15.71 59.109,22.84C60.2,24.33 60.899,25.85 61.359,27.25C62.13,29.59 60.3,31.98 57.84,31.98L52.14,31.99" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:3.48px;"/>
+        </g>
+        <g transform="matrix(-0.287354,0.000352725,0.000352725,0.287354,8.29687,15.1804)">
+            <path d="M-24.44,-0.015L0,-0.015" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:3.48px;"/>
+        </g>
+        <g transform="matrix(0,0.287354,0.287354,0,11.9502,8.5856)">
+            <path d="M-7.014,-7.014L7.014,-7.014" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:3.48px;"/>
+        </g>
+        <g transform="matrix(-0.287354,0,0,0.287354,3.02685,10.6012)">
+            <path d="M-48.271,0L0,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:3.48px;"/>
+        </g>
+    </g>
+</svg>

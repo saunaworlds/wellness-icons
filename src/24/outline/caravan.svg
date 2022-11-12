@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;">
+    <g id="caravan">
+        <g transform="matrix(0.314875,0,0,0.314875,16.9128,9.58174)">
+            <path d="M0,23.144L-12.223,23.144L-12.223,5.178C-12.223,2.319 -9.904,0 -7.044,0L-5.178,0C-2.318,0 0,2.319 0,5.178L0,23.144Z" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:3.18px;"/>
+        </g>
+        <g transform="matrix(0.314875,0,0,0.314875,19.3399,14.1883)">
+            <path d="M0,-20.9L0,8.51L-31.47,8.51C-31.47,4.65 -34.6,1.52 -38.46,1.52C-42.29,1.52 -45.39,4.58 -45.449,8.38C-50.899,7.56 -55.069,2.86 -55.069,-2.82L-55.069,-20.9C-55.069,-25.6 -51.27,-29.41 -46.569,-29.41L-8.5,-29.41C-3.81,-29.41 0,-25.6 0,-20.9Z" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:3.18px;"/>
+        </g>
+        <g transform="matrix(0.314875,0,0,0.314875,5.02904,19.0721)">
+            <path d="M0,-7.13C-0.011,-7.09 -0.011,-7.04 -0.011,-7C-0.011,-3.13 3.12,0 6.989,0C10.85,0 13.979,-3.13 13.979,-7" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:3.18px;"/>
+        </g>
+        <g transform="matrix(-0.314875,0,0,0.314875,132.54,-33.0855)">
+            <rect x="385.041" y="129.238" width="20.847" height="9.434" style="fill:none;stroke:black;stroke-width:3.18px;"/>
+        </g>
+        <g transform="matrix(0.314875,0,0,0.314875,22,16.8693)">
+            <path d="M0,-6.513L0,0L-12.514,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:3.18px;"/>
+        </g>
+        <g transform="matrix(0,0.314875,0.314875,0,9.28181,8.9916)">
+            <path d="M-4.014,-4.014L4.014,-4.014" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:3.18px;"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" clip-rule="evenodd" viewBox="0 0 24 24" stroke-width="1.0" stroke="currentColor" aria-hidden="true">
+  <path fill="none" d="M16.49 2c-.387.713-.833 1.818-.675 3.13.127 1.055.557 1.522.826 2.626.197.813.322 2.033-.151 3.635M20.747 7.754c-.291.537-.626 1.368-.507 2.356.095.794.42 1.145.62 1.976.15.612.243 1.531-.113 2.736"/>
+  <ellipse cx="-5.5" fill="none" stroke-width="2.62" rx="5.5" ry="5.501" transform="matrix(0 -.38132 -.38132 0 9.249 6.533)"/>
+  <path fill="none" d="M3.007 3.288v17.12H14.12"/>
+  <path fill="none" d="M14.024 17.467l-1.856-5.092a2.016 2.016 0 00-3.788 1.381l1.43 3.922.299-.008h5.351L19.79 22M5.643 17.69l2.744-5.333"/>
+</svg>

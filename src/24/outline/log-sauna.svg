@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;">
+    <g id="log-cabin" transform="matrix(1,0,0,1,18.8511,13.3095)">
+        <g transform="matrix(0.346607,0,0,0.346607,-0.687504,2.81924)">
+            <path d="M0,-22.767L0,8.458L-35.563,8.458L-35.563,-22.767L-17.781,-31.225L0,-22.767Z" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.89px;"/>
+        </g>
+        <g transform="matrix(0.346607,0,0,0.346607,-5.05632,1.18565)">
+            <path d="M0,13.161L-10.356,13.161L-10.356,5.178C-10.356,2.318 -8.038,0 -5.178,0C-2.318,0 0,2.318 0,5.178L0,13.161Z" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.89px;"/>
+        </g>
+        <g transform="matrix(0,-0.346607,-0.346607,0,-4.93604,-12.2522)">
+            <path d="M-23.306,-12.258L-20.716,-12.258L-12.258,5.523L-20.716,23.306L-23.306,23.306" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.89px;"/>
+        </g>
+        <g transform="matrix(-0.313006,0.148876,0.148876,0.313006,-13.9725,-2.48729)">
+            <path d="M-25.489,-5.753L1.298,-5.753" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.89px;"/>
+        </g>
+        <g transform="matrix(0.313008,0.148871,0.148871,-0.313008,-5.58808,-9.69022)">
+            <path d="M-1.298,-5.753L25.49,-5.753" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.89px;"/>
+        </g>
+        <g transform="matrix(0.346607,0,0,0.346607,-13.0144,5.44663)">
+            <path d="M0,-10.648C-0.223,-10.715 -2.887,-11.481 -5,-9.759C-6.771,-8.315 -7.399,-5.738 -6.481,-3.423C-7.843,-3.784 -9.28,-3.37 -10.185,-2.351C-11.362,-1.025 -11.038,0.651 -11,0.833L0,0.833" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.89px;"/>
+        </g>
+        <g transform="matrix(0.346607,0,0,0.346607,-0.687851,5.44663)">
+            <path d="M0,-10.648C0.223,-10.715 2.888,-11.481 5,-9.759C6.771,-8.315 7.399,-5.738 6.481,-3.423C7.843,-3.784 9.28,-3.37 10.186,-2.351C11.363,-1.025 11.038,0.651 11,0.833L0,0.833" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.89px;"/>
+        </g>
+        <g transform="matrix(0,0.346607,0.346607,0,-0.977753,-7.10642)">
+            <path d="M-3.645,-3.645L3.645,-3.645" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.89px;"/>
+        </g>
+        <g transform="matrix(0.346607,0,0,0.346607,-13.0144,-2.86841)">
+            <path d="M0,0L35.563,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.89px;"/>
+        </g>
+        <g transform="matrix(0,0.346607,0.346607,0,-4.32352,-5.47646)">
+            <path d="M-7.291,-7.291L7.291,-7.291" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.89px;"/>
+        </g>
+        <g transform="matrix(0.255418,0.234304,0.234304,-0.255418,-8.85015,-6.93092)">
+            <path d="M-1.844,-4.739L12.175,-4.739" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.89px;"/>
+        </g>
+        <g transform="matrix(0.346607,0,0,0.346607,-13.0141,2.70878)">
+            <path d="M0,0L7.451,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.89px;"/>
+        </g>
+        <g transform="matrix(-0.255407,0.234316,0.234316,0.255407,-5.26924,-2.08984)">
+            <path d="M-12.174,-4.739L1.844,-4.739" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.89px;"/>
+        </g>
+        <g transform="matrix(0.346607,0,0,0.346607,-0.687157,-0.317277)">
+            <path d="M0,0L-35.565,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.89px;"/>
+        </g>
+        <g transform="matrix(-0.346607,0,0,0.346607,-3.27008,2.70878)">
+            <path d="M-7.451,0L0,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.89px;"/>
+        </g>
+    </g>
+</svg>
