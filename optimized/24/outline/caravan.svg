@@ -1,5 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" clip-rule="evenodd" viewBox="0 0 24 24" stroke-width="1.0" stroke="currentColor" aria-hidden="true">
-  <path fill="none" d="M16.913 16.87h-3.849v-5.658c0-.9.73-1.63 1.63-1.63h.588c.9 0 1.63.73 1.63 1.63v5.657z"/>
-  <path fill="none" d="M19.34 7.607v9.26H9.43a2.201 2.201 0 00-4.4-.04A3.565 3.565 0 012 13.3V7.607c0-1.48 1.196-2.68 2.676-2.68h11.987c1.477 0 2.677 1.2 2.677 2.68zM5.029 16.827c-.003.013-.003.028-.003.041a2.203 2.203 0 104.405 0"/>
-  <path fill="none" d="M11.3 7.608H4.736v2.97H11.3zM22 14.819v2.05h-3.94M8.018 7.728v2.528"/>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
+  <path d="M0 23.144h-12.223V5.178A5.18 5.18 0 0 1-7.044 0h1.866A5.18 5.18 0 0 1 0 5.178z" style="fill:none;fill-rule:nonzero;stroke:#000;stroke-width:3.18px" transform="matrix(.31488 0 0 .31488 16.913 9.582)"/>
+  <path d="M0-20.9V8.51h-31.47a6.99 6.99 0 0 0-6.99-6.99c-3.83 0-6.93 3.06-6.989 6.86a11.32 11.32 0 0 1-9.62-11.2V-20.9c0-4.7 3.799-8.51 8.5-8.51H-8.5c4.69 0 8.5 3.81 8.5 8.51" style="fill:none;fill-rule:nonzero;stroke:#000;stroke-width:3.18px" transform="matrix(.31488 0 0 .31488 19.34 14.188)"/>
+  <path d="M0-7.13c-.011.04-.011.09-.011.13 0 3.87 3.131 7 7 7 3.861 0 6.99-3.13 6.99-7" style="fill:none;fill-rule:nonzero;stroke:#000;stroke-width:3.18px" transform="matrix(.31488 0 0 .31488 5.029 19.072)"/>
+  <path d="M385.041 129.238h20.847v9.434h-20.847z" style="fill:none;stroke:#000;stroke-width:3.18px" transform="matrix(-.31488 0 0 .31488 132.54 -33.086)"/>
+  <path d="M0-6.513V0h-12.514" style="fill:none;fill-rule:nonzero;stroke:#000;stroke-width:3.18px" transform="matrix(.31488 0 0 .31488 22 16.87)"/>
+  <path d="M-4.014-4.014h8.028" style="fill:none;fill-rule:nonzero;stroke:#000;stroke-width:3.18px" transform="matrix(0 .31488 .31488 0 9.282 8.992)"/>
 </svg>

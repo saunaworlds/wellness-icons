@@ -1,5 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" clip-rule="evenodd" viewBox="0 0 24 24" stroke-width="1.0" stroke="currentColor" aria-hidden="true">
-  <path fill="none" d="M13.049 18.297a3.703 3.703 0 11-5.847-3.023V4.147a2.144 2.144 0 114.288 0v11.127a3.705 3.705 0 011.559 3.023z"/>
-  <circle cx="-5.725" r="5.725" fill="none" stroke-width="3.17" transform="matrix(0 -.31552 -.31552 0 9.345 16.502)"/>
-  <path fill="none" d="M9.345 16.503V8.416M14.293 2.414h4.065M14.293 5.009h2.315M14.293 7.603h4.065M14.293 10.197h2.315M14.293 12.792h4.065"/>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
+  <path d="M0 39.913C0 46.395-5.255 51.65-11.737 51.65s-11.737-5.255-11.737-11.737a11.74 11.74 0 0 1 4.942-9.579V-4.933a6.797 6.797 0 1 1 13.591 0v35.267A11.74 11.74 0 0 1 0 39.913" style="fill:none;fill-rule:nonzero;stroke:#000;stroke-width:3.17px" transform="translate(13.049 5.703)scale(.31552)"/>
+  <circle cx="-5.725" r="5.725" style="fill:none;stroke:#000;stroke-width:3.17px" transform="matrix(0 -.31552 -.31552 0 9.345 16.502)"/>
+  <path d="M-12.815 12.815h25.63" style="fill:none;fill-rule:nonzero;stroke:#000;stroke-width:3.17px" transform="matrix(0 -.31552 -.31552 0 13.389 12.46)"/>
+  <path d="M0 0h12.884" style="fill:none;fill-rule:nonzero;stroke:#000;stroke-width:3.17px" transform="translate(14.293 2.414)scale(.31552)"/>
+  <path d="M0 0h7.339" style="fill:none;fill-rule:nonzero;stroke:#000;stroke-width:3.17px" transform="translate(14.293 5.009)scale(.31552)"/>
+  <path d="M0 0h12.884" style="fill:none;fill-rule:nonzero;stroke:#000;stroke-width:3.17px" transform="translate(14.293 7.603)scale(.31552)"/>
+  <path d="M0 0h7.339" style="fill:none;fill-rule:nonzero;stroke:#000;stroke-width:3.17px" transform="translate(14.293 10.197)scale(.31552)"/>
+  <path d="M0 0h12.884" style="fill:none;fill-rule:nonzero;stroke:#000;stroke-width:3.17px" transform="translate(14.293 12.792)scale(.31552)"/>
 </svg>

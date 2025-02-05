@@ -1,5 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" clip-rule="evenodd" viewBox="0 0 24 24" stroke-width="1.0" stroke="currentColor" aria-hidden="true">
-  <ellipse cx="-6.993" fill="none" stroke-width="3.48" rx="6.993" ry="6.994" transform="matrix(0 -.28735 -.28735 0 6.307 13.425)"/>
-  <ellipse cx="-6.993" fill="none" stroke-width="3.48" rx="6.993" ry="6.994" transform="matrix(0 -.28735 -.28735 0 17.31 13.425)"/>
-  <path fill="none" d="M4.317 15.179l-1.259.003c-.62 0-1.106-.529-1.054-1.147.129-1.551.735-4.316 3.293-6.112 2.79-1.957 6.241-1.589 8.557-.301 1.658.92 2.595 2.235 3.043 2.98.239-.015 2.897-.118 4.405 1.93.314.429.515.865.647 1.268.221.672-.305 1.359-1.011 1.359l-1.638.003M15.32 15.167l-7.023.01M9.935 6.57v4.031M16.898 10.601H3.027"/>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
+  <ellipse cx="-6.993" rx="6.993" ry="6.994" style="fill:none;stroke:#000;stroke-width:3.48px" transform="matrix(0 -.28735 -.28735 0 6.307 13.425)"/>
+  <ellipse cx="-6.993" rx="6.993" ry="6.994" style="fill:none;stroke:#000;stroke-width:3.48px" transform="matrix(0 -.28735 -.28735 0 17.31 13.425)"/>
+  <path d="m0 32.05-4.38.01c-2.16 0-3.85-1.84-3.67-3.99.449-5.4 2.56-15.02 11.46-21.27 9.71-6.81 21.72-5.53 29.779-1.05 5.771 3.2 9.031 7.78 10.591 10.37.829-.05 10.079-.41 15.329 6.72a15.7 15.7 0 0 1 2.25 4.41c.771 2.34-1.059 4.73-3.519 4.73l-5.7.01" style="fill:none;fill-rule:nonzero;stroke:#000;stroke-width:3.48px" transform="matrix(.28735 0 0 .28735 4.317 5.97)"/>
+  <path d="M-24.44-.015H0" style="fill:none;fill-rule:nonzero;stroke:#000;stroke-width:3.48px" transform="matrix(-.28735 .00035 .00035 .28735 8.297 15.18)"/>
+  <path d="M-7.014-7.014H7.014" style="fill:none;fill-rule:nonzero;stroke:#000;stroke-width:3.48px" transform="matrix(0 .28735 .28735 0 11.95 8.586)"/>
+  <path d="M-48.271 0H0" style="fill:none;fill-rule:nonzero;stroke:#000;stroke-width:3.48px" transform="matrix(-.28735 0 0 .28735 3.027 10.601)"/>
 </svg>

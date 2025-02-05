@@ -40,12 +40,12 @@ npm install @wellness-icons/react
 Now each icon can be imported individually as a React component:
 
 ```js
-import { BeakerIcon } from '@wellness-icons/react/24/outline'
+import { SaunaIcon } from '@wellness-icons/react/24/outline'
 
 function MyComponent() {
   return (
     <div>
-      <BeakerIcon className="h-6 w-6 text-blue-500"/>
+      <SaunaIcon className="h-6 w-6 text-blue-500"/>
       <p>...</p>
     </div>
   )
@@ -74,16 +74,16 @@ Now each icon can be imported individually as a Vue component:
 ```vue
 <template>
   <div>
-    <BeakerIcon class="h-6 w-6 text-blue-500"/>
+    <SaunaIcon class="h-6 w-6 text-blue-500"/>
     <p>...</p>
   </div>
 </template>
 
 <script>
-import { BeakerIcon } from '@wellness-icons/vue/24/outline'
+import { SaunaIcon } from '@wellness-icons/vue/24/outline'
 
 export default {
-  components: { BeakerIcon }
+  components: { SaunaIcon }
 }
 </script>
 ```

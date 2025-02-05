@@ -1,9 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" clip-rule="evenodd" viewBox="0 0 24 24" stroke-width="1.0" stroke="currentColor" aria-hidden="true">
-  <path fill="none" d="M18.159 16.526H5.841a.883.883 0 01-.883-.882V7.296A5.297 5.297 0 0110.255 2h3.49a5.296 5.296 0 015.297 5.296v8.348a.883.883 0 01-.883.882zM4.958 10.549h14.084"/>
-  <ellipse cx="-3.726" cy=".001" fill="none" stroke-width="3.21" rx="3.727" ry="3.726" transform="matrix(0 -.31141 -.31141 0 8.25 12.337)"/>
-  <ellipse cx="-3.726" cy=".001" fill="none" stroke-width="3.21" rx="3.727" ry="3.726" transform="matrix(0 -.31141 -.31141 0 15.75 12.337)"/>
-  <path fill="none" d="M12 2v8.549"/>
-  <path fill="none" d="M9.41 16.649l-3.87 5.35"/>
-  <path fill="none" d="M17.253 20.677H6.747M15.75 18.624h-7.5"/>
-  <path fill="none" d="M14.589 16.65L18.46 22"/>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
+  <path d="M0 46.646h-39.555a2.836 2.836 0 0 1-2.835-2.835V17.007C-42.39 7.615-34.775 0-25.382 0h11.209C-4.779 0 2.835 7.615 2.835 17.007v26.804A2.836 2.836 0 0 1 0 46.646" style="fill:none;fill-rule:nonzero;stroke:#000;stroke-width:3.21px" transform="matrix(.31141 0 0 .31141 18.159 2)"/>
+  <path d="M0 0h45.225" style="fill:none;fill-rule:nonzero;stroke:#000;stroke-width:3.21px" transform="matrix(.31141 0 0 .31141 4.958 10.549)"/>
+  <ellipse cx="-3.726" cy=".001" rx="3.727" ry="3.726" style="fill:none;stroke:#000;stroke-width:3.21px" transform="matrix(0 -.31141 -.31141 0 8.25 12.337)"/>
+  <ellipse cx="-3.726" cy=".001" rx="3.727" ry="3.726" style="fill:none;stroke:#000;stroke-width:3.21px" transform="matrix(0 -.31141 -.31141 0 15.75 12.337)"/>
+  <path d="M-13.726-13.726h27.452" style="fill:none;fill-rule:nonzero;stroke:#000;stroke-width:3.21px" transform="matrix(0 .31141 .31141 0 16.274 6.274)"/>
+  <path d="M-16.821-8.592H4.388" style="fill:none;fill-rule:nonzero;stroke:#000;stroke-width:3.21px" transform="matrix(-.18255 .2523 .2523 .18255 8.508 22.461)"/>
+  <path d="M-33.736 0H0" style="fill:none;fill-rule:nonzero;stroke:#000;stroke-width:3.21px" transform="matrix(-.31141 0 0 .31141 6.747 20.677)"/>
+  <path d="M-24.078 0H0" style="fill:none;fill-rule:nonzero;stroke:#000;stroke-width:3.21px" transform="matrix(-.31141 0 0 .31141 8.25 18.624)"/>
+  <path d="M-4.388-8.592h21.209" style="fill:none;fill-rule:nonzero;stroke:#000;stroke-width:3.21px" transform="matrix(.18255 .2523 .2523 -.18255 17.558 16.188)"/>
 </svg>
