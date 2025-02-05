@@ -2,7 +2,7 @@ name: Release Insiders
 
 on:
   push:
-    branches: [main]
+    branches: [insiders]
 
 permissions:
   contents: read
